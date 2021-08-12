@@ -1,4 +1,4 @@
-# Islamic Chat
+# <img src="https://github.com/AIabdoPr/Islamic-Chat/blob/main/assets/images/logo.png" width="30">  Islamic Chat
 
 A new Flutter project powred by Abdo-Pr.
 ## Preview Video
