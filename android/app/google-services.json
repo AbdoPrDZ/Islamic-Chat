@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484344746312",
+    "firebase_url": "https://islamic-chat-21347-default-rtdb.firebaseio.com",
+    "project_id": "islamic-chat-21347",
+    "storage_bucket": "islamic-chat-21347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484344746312:android:6073fb46b9282036d7e37d",
+        "android_client_info": {
+          "package_name": "com.abdo_pr.apps.islamic_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484344746312-juasdrb0bfpq4iglinhft99bh501skh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBRVZjyOVghLV210dF4sK3PYS-vjn_dFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484344746312-juasdrb0bfpq4iglinhft99bh501skh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
